@@ -6,3 +6,5 @@ Creating a new branch is quick And simple.
 test --no-off feature.
 add branch feature2.
 
+git stash test
+
