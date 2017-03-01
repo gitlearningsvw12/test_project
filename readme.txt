@@ -11,3 +11,5 @@ git stash test
 
 git stash on branch dev 
 
+git conflict from readme.txt
+
