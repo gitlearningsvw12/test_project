@@ -9,3 +9,5 @@ add branch feature2.
 git stash test
 
 git stash on branch dev 
+
+git conflict
